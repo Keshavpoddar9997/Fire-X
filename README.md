@@ -1,6 +1,6 @@
 <p align="center">
    
-   <a href="https://github.com/TeamEviral/Fire-X">
+   <a href="https://github.com/Keshavpoddar9997/Fire-X">
       <img src="https://telegra.ph/file/4fd8dcd5319be4e025022.jpg" alt="firex", height="300px",width="300px">
    </a>
    <br>
@@ -8,7 +8,7 @@
    <i>The Awaited Bot</i>
 </p>
  
-## New Updated Repo is [Here](https://github.com/Teameviral/FIREXUSERBOT).
+## New Updated Repo is [Here](https://github.com/Keshavpoddar9997/FIREXUSERBOT).
    
 # [Fire-X](https://t.me/FireXUserBot) userbot
 
